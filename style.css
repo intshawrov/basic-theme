@@ -1,0 +1,31 @@
+/* 
+Theme Name: Basic Theme
+Author URL: https://fb.com/mirshawrov
+Author: MirShawrovIslam
+Description: It is a blog website. Bloging is love for me and I enjoy this . I love to travell and see nature.
+Tags: bolg, portfolio, business, responsive, html, css, Js, PHP.
+Version: 1.1
+*/
+
+/* custom css*/
+.comment-form-comment label {
+    display: block;
+}
+
+.comment-form-comment textarea {
+    width: 100%;
+    box-sizing: border-box;
+    border: 2px solid #a7a9a48a;
+    border-radius: 10px;
+}
+
+
+.posts-nav.bg-white.p-5.d-lg-flex.d-md-flex.justify-content-between {
+    margin-bottom: 39px;
+    width: 96%;
+    margin-left: 16px;
+}
+
+div#navbarsExample09 {
+    margin-left: 250px;
+}
